@@ -1,0 +1,5 @@
+host: go.nozzle.io
+
+paths:
+  /:
+    repo: https://github.com/nozzle/nozzle
